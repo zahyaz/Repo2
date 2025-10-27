@@ -19,5 +19,4 @@ from django.urls import path
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    # we should add a new path here !!!!!
 ]
